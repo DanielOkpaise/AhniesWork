@@ -12,3 +12,8 @@ body{
 img{
 	max-width:100%
 }
+#content {
+max-width: 1024px;
+margin: 0 auto;
+}
+}
