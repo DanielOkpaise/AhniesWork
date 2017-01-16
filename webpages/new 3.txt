@@ -1,0 +1,172 @@
+<table>
+<tbody>
+<tr>
+<td colspan="5" width="751">
+<p style="text-align: center;"><strong>Flavours Options; Vanilla, Marble, Red Velvet and Chocolate Cake</strong></p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" colspan="5" width="751"><strong>Icing Option; Whipped Cream</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;" colspan="2" width="751"><strong>Sizes (Inches)</strong></td>
+<td style="text-align: center;" colspan="3" width="451"><strong>Prices</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;" width="751"><strong>Round Shape</strong></td>
+<td style="text-align: center;" width="171"><strong>Non Round Shape</strong></td>
+<td style="text-align: center;" width="451"><strong>1 Flavour</strong></td>
+<td style="text-align: center;" width="150"><strong>2 Flavours</strong></td>
+<td style="text-align: center;" width="150"><strong>3 Flavours</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;" width="751">8’’</td>
+<td style="text-align: center;" width="171">6’’</td>
+<td style="text-align: center;" width="451">5,000</td>
+<td style="text-align: center;" width="150">7,500</td>
+<td style="text-align: center;" width="150">10,000</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="751">10’’</td>
+<td style="text-align: center;" width="171">8’’</td>
+<td style="text-align: center;" width="451">7,500</td>
+<td style="text-align: center;" width="150">10,000</td>
+<td style="text-align: center;" width="150">13,000</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="751">12’’</td>
+<td style="text-align: center;" width="171">10’’</td>
+<td style="text-align: center;" width="451">10,000</td>
+<td style="text-align: center;" width="150">13,000</td>
+<td style="text-align: center;" width="150">16,000</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="751">14’’</td>
+<td style="text-align: center;" width="171">12’’</td>
+<td style="text-align: center;" width="451">13,000</td>
+<td style="text-align: center;" width="150">16,000</td>
+<td style="text-align: center;" width="150">20,000</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="751">16’’</td>
+<td style="text-align: center;" width="171">14’’</td>
+<td style="text-align: center;" width="451">16,000</td>
+<td style="text-align: center;" width="150">20,000</td>
+<td style="text-align: center;" width="150">25,000</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="751">18’’</td>
+<td style="text-align: center;" width="171">16’’</td>
+<td style="text-align: center;" width="451">20,000</td>
+<td style="text-align: center;" width="150">25,000</td>
+<td style="text-align: center;" width="150">30,000</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="751">20’’</td>
+<td style="text-align: center;" width="171">18’’</td>
+<td style="text-align: center;" width="451">25,000</td>
+<td style="text-align: center;" width="150">30,000</td>
+<td style="text-align: center;" width="150">35,000</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="751">22’’</td>
+<td style="text-align: center;" width="171">20’’</td>
+<td style="text-align: center;" width="451">30,000</td>
+<td style="text-align: center;" width="150">35,000</td>
+<td style="text-align: center;" width="150">40,000</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="751">24’’</td>
+<td style="text-align: center;" width="171">22’’</td>
+<td style="text-align: center;" width="451">40,000</td>
+<td style="text-align: center;" width="150">45,000</td>
+<td style="text-align: center;" width="150">50,000</td>
+</tr>
+</tbody>
+</table>
+<table>
+<tbody>
+<tr>
+<td style="text-align: center;" colspan="3" width="451"><strong>Flavour Options; Fruit Cake, Carrot Cake and Coconut Cake</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;" colspan="3" width="451"><strong>Icing Option; Whipped Cream</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;" colspan="2" width="301"><strong>Sizes (Inches)</strong></td>
+<td style="text-align: center;" width="150"><strong>Prices</strong></td>
+</tr>
+<tr>
+<td width="130"><strong>Round Shape</strong></td>
+<td width="171"><strong>Non Round Shape</strong></td>
+<td width="150"><strong>1 Flavour</strong></td>
+</tr>
+<tr>
+<td style="text-align: center;" width="130">8’’</td>
+<td width="171">6’’</td>
+<td width="150">9,000</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="130">10’’</td>
+<td width="171">8’’</td>
+<td width="150">13,000</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="130">12 ‘’</td>
+<td width="171">10’’</td>
+<td width="150">18,000</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="130">14’’</td>
+<td width="171">12’’</td>
+<td width="150">24,000</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="130">16’’</td>
+<td width="171">14’’</td>
+<td width="150">32,000</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="130">18’’</td>
+<td width="171">16’’</td>
+<td width="150">45,000</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="130">20’’</td>
+<td style="text-align: center;" width="171">18’’</td>
+<td width="150">
+<p style="text-align: center;">60,000</p>
+</td>
+</tr>
+<tr>
+<td style="text-align: center;" width="130">22’’</td>
+<td style="text-align: center;" width="171">20’’</td>
+<td style="text-align: center;" width="150">80,000</td>
+</tr>
+</tbody>
+</table>
+<p>&nbsp;</p>
+<p><strong>Terms</strong></p>
+<ol>
+<li style="text-align: justify;">Our cakes are baked fresh to order. 48 hours notice is required when placing your order except for Carrot, Coconut and Fruit cakes which require 3 days notice.</li>
+<li style="text-align: justify;">Your cake will be ready at least 24 hours (or on a later date requested by you) after your payment is confirmed excluding delivery time (if you want us to deliver)</li>
+<li style="text-align: justify;">We reserve the right to decorate or bake your cake using our discretion if you do not confirm the colours and flavours 48 hours prior to the delivery/pick-up day</li>
+<li style="text-align: justify;">Colours are subject to availability.</li>
+<li style="text-align: justify;">We have a strict no refund policy. Our processes allow for refunds to be made only in the unlikely event that we do not make your cake.</li>
+<li style="text-align: justify;">Our cakes are to be consumed within 2 days after collection. We do not use preservatives. If you wish to keep your cake longer, cut it up, wrap the chunks in cling film or foil and store in the freezer. Allow it to thaw and come to room temperature before serving.</li>
+<li style="text-align: justify;">Delivery time lines are subject to ‎traffic or weather conditions and other unforeseen circumstances that are beyond our control.</li>
+<li style="text-align: justify;">Our closing time is <span class="aBn" data-term="goog_615991034"><span class="aQJ">5 pm</span></span> <span class="aBn" data-term="goog_615991035"><span class="aQJ">on Monday</span></span> to <span class="aBn" data-term="goog_615991036"><span class="aQJ">Saturday</span></span> , however, our doors stay open till <span class="aBn" data-term="goog_615991037"><span class="aQJ">7 pm</span></span> for pick ups only. This gives customers who may be stuck in traffic some more time to be able to pick up their cakes.</li>
+<li style="text-align: justify;">We do not work on Sundays, however, our doors are open on Sundays from <span class="aBn" data-term="goog_615991038"><span class="aQJ">9 am to 5 pm</span></span> for pick ups only as well. You may or may not be able to reach our phone lines <span class="aBn" data-term="goog_615991039"><span class="aQJ">on Sunday</span></span>, but if you paid for a cake to be picked up <span class="aBn" data-term="goog_615991040"><span class="aQJ">on Sunday</span></span>, all you need to do is come to our office, and your cake will be waiting for you. 🙂 Thank you for choosing SayCheese Cakes</li>
+</ol>
+	<div class="quickshare-container">
+	<ul class="quickshare-text qs-genericons quickshare-effect-round quickshare-effect-glow quickshare-effect-expand">
+		<li class="quickshare-share">Share:</li> 
+		<li><a href="https://facebook.com/sharer.php?u=http%3A%2F%2Fsaycheesecakes.com.ng%2Fbasic-celebration-cakes%2F&amp;t=Basic+Celebration+Cakes+<+SayCheese+Cakes" target="_blank" title="Share on Facebook"><span class="quickshare-facebook">Facebook</span></a></li>		<li><a href="https://twitter.com/intent/tweet?url=http%3A%2F%2Fsaycheesecakes.com.ng%2Fbasic-celebration-cakes%2F&amp;text=Basic+Celebration+Cakes+<+SayCheese+Cakes" target="_blank" title="Share on Twitter"><span class="quickshare-twitter">Twitter</span></a></li>														<li><a href="mailto:?subject=SayCheese+Cakes:+Basic+Celebration+Cakes&amp;body=http%3A%2F%2Fsaycheesecakes.com.ng%2Fbasic-celebration-cakes%2F" target="_blank" title="Share via Email"><span class="quickshare-email">Email</span></a></li>	</ul>
+	</div>
+							</div>
+												</div>
+
+					
+					
+
+									</div>

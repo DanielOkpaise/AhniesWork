@@ -1,0 +1,31 @@
+<a target="_blank" href="cakes.jpg">
+    <img src="../img/home/cakes.jpg" alt="Cakes" width="300" height="200">
+  </a>
+  <div class="desc">Butter Cream Xmas Cake</div>
+</div>
+
+<div class="img">
+  <a target="_blank" href="Chocolate_Buttercream.jpg">
+    <img src="../img/home/Chocolate_Buttercream.jpg" alt="Chocolate" width="300" height="200">
+  </a>
+  <div class="desc">Chocolate Delight</div>
+</div>
+
+<div class="img">
+  <a target="_blank" href="OrangeCakes_forLovers.jpg">
+     <img src="../img/home/OrangeCakes_forLovers.jpg" alt="OrangeCakes" width="300" height="200">
+  </a>
+  <div class="desc">A Cake for Bae</div>
+</div>
+
+<div class="img">
+  <a target="_blank" href="VanillaBirthday.jpg">
+     <img src="../img/home/VanillaBirthday.jpg" alt="Birthday" width="300" height="200">
+  </a>
+  <div class="desc">Vanilla Birthday Cake</div>
+</div>
+<div class="img">
+  <a target="_blank" href="VanillaCake_CakewithRoses.jpg">
+  <img src="../img/home/VanillaCake_CakewithRoses.jpg" alt="VanillA" width="300" height="200">
+  </a>
+  <div class="desc">Vanilla Rose</div>

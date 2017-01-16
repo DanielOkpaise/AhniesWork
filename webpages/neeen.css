@@ -1,0 +1,10 @@
+
+.group:before,
+.group:after {
+content:"";
+}
+section{
+margin:20px;
+padding:30px;
+background-color:silver;
+}

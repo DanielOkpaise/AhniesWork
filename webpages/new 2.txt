@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <title>AHNIES CUISINE</title>
+	 <link href="neeen.css"   rel="stylesheet" />
+    <!-- Bootstrap core CSS -->
+    <link href="bootstrap.min.css" rel="stylesheet" />
+
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+	</head>
+	</head>
+<body>
+
+<div class="img">
+  <a target="_blank" href="fjords.jpg">
+    <img src="fjords.jpg" alt="Fjords" width="300" height="200">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+<div class="img">
+  <a target="_blank" href="forest.jpg">
+    <img src="forest.jpg" alt="Forest" width="300" height="200">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+<div class="img">
+  <a target="_blank" href="lights.jpg">
+    <img src="lights.jpg" alt="Northern Lights" width="300" height="200">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+<div class="img">
+  <a target="_blank" href="mountains.jpg">
+    <img src="mountains.jpg" alt="Mountains" width="300" height="200">
+  </a>
+  <div class="desc">Add a description of the image here</div>
+</div>
+
+</body>
+</html>
